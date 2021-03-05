@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         questionIndex += 1;
     }
     
-    Widget build(BuildContext(context)) {
+    Widget build(BuildContext context) {
         var questions = [
             "What's your favourite colour ?",
             "What's your favourite animal ?",

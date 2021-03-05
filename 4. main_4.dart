@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
         print("Answer Recorded");
     }
     
-    Widget build(BuildContext(context)) {
+    Widget build(BuildContext context) {
         var questions = [
             "What's your favourite colour ?", 
             "What's your favourite animal ?",

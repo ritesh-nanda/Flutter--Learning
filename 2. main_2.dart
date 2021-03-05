@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
     @override
-    Widget build(BuildContext(context)) {
+    Widget build(BuildContext context) {
         return MaterialApp(
             home: Scaffold( 
             //scaffold has the job of creating a base page design, structure and colour scheme for giving us an UI.
